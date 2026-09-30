@@ -1,4 +1,4 @@
-# 04 · SQL E-commerce Report (SQL — Week 4)
+# 04 · SQL E-commerce Report 
 
 35+ queries covering **top products, customer spend, NULL handling, JOINs and DDL constraints** on a 7-table e-commerce database.
 
